@@ -1,0 +1,28 @@
+.form {
+    width: 400px;
+	display: flex;
+	justify-content: space-between;
+	margin: 3px auto;
+}
+
+.form input {
+    height: 2em;
+    text-align: center;
+    outline: none;
+    border: none;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.form button {
+    border: 1px solid black;
+    width: 60px;
+    background-color: white;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    cursor: pointer;
+}
+.form button:hover {
+    background-color: rgb(150, 100, 150);
+    color: white;
+}

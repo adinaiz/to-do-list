@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://todo-redux-toolkit-87469-default-rtdb.firebaseio.com/'
